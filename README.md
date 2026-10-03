@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # WatchTogether — YouTube Watch Party
 
 A student-friendly starter project based on the provided internship assignment:
@@ -97,3 +98,7 @@ DATABASE_PATH=./watchparty.sqlite
 - Remove a participant
 - Test chat
 - Click emoji reactions in one browser and confirm they appear in the other browser
+=======
+# CineFlex-yt-watch-party-system-
+CineFlix is a real-time YouTube Watch Party web application that lets users watch videos together in sync. It features room creation, invite links, role-based permissions, synchronized playback, live chat, and emoji reactions using React, Node.js, Express, and Socket.IO.
+>>>>>>> 6dd5d877804d7453c09cbb34623562ef3fb984f7
